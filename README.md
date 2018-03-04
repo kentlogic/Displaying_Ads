@@ -17,7 +17,7 @@ You can download the latest sample APK from Google Play:
             <img src="https://raw.githubusercontent.com/javiersantos/MaterialStyledDialogs/master/Screenshots/style-1.png" height="400" />
         </td>
         <th>
-            ![banner](https://user-images.githubusercontent.com/29334373/36947341-50158638-1ff0-11e8-8e01-5edea48cc6fd.png)
+            <img src="images/banner.png" width="100" height="100"/>
         </td>
     </tr>
     <tr>
