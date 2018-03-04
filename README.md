@@ -15,13 +15,13 @@ You can download the latest sample APK from Google Play:
     <tr>
         <th>
             <img src="images/banner.png" width="250" height="400"/>
-        </td>
+        </th>
         <th>
             <img src="images/interstitial.png" width="250" height="400"/>
-        </td>
+        </th>
         <th>
             <img src="images/rewarded_video.png" width="250" height="400"/>
-        </td>
+        </th>
     </tr>
     <tr>
     	<td>Banner Ad</td>
