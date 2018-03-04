@@ -14,16 +14,18 @@ You can download the latest sample APK from Google Play:
 <table align="center">
     <tr>
         <th>
-            <img src="https://raw.githubusercontent.com/javiersantos/MaterialStyledDialogs/master/Screenshots/style-1.png" height="400" />
+            <img src="images/banner.png" width="250" height="400"/>
         </td>
         <th>
-            <img src="images/banner.png" width="100" height="100"/>
+            <img src="images/interstitial.png" width="250" height="400"/>
+        </td>
+        <th>
+            <img src="images/rewarded_video.png" width="250" height="400"/>
         </td>
     </tr>
     <tr>
-    	<td>Header with Icon (default): .setStyle(Style.HEADER_WITH_ICON)</td>
-    	<td>Header with Title: .setStyle(Style.HEADER_WITH_TITLE)</td>
+    	<td>Banner Ad</td>
+    	<td>Interstitial Ad</td>
+      <td>Rewarded video Ad</td>
     </tr>
-</table>    
-
-![](images/banner.png)
+</table>
