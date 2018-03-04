@@ -25,3 +25,5 @@ You can download the latest sample APK from Google Play:
     	<td>Header with Title: .setStyle(Style.HEADER_WITH_TITLE)</td>
     </tr>
 </table>    
+
+![](images/banner.png)
